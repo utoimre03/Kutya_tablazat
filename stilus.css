@@ -1,0 +1,31 @@
+main {
+    margin: auto;
+    color: ;
+}
+
+th {
+    padding: 10px;
+}
+
+#kutya {
+    margin: auto;
+    text-align: center;
+    border-spacing: 10px;
+    border-collapse: collapse;
+    color: #4a1515;
+}
+
+#kutya tr:nth-child(even) {
+    background-color: lightgray;
+}
+  
+#kutya tr:nth-child(odd) {
+   background-color: white;
+}
+
+#kutya caption {
+    font-weight: bold;
+}
+
+
+  
